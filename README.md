@@ -3,6 +3,10 @@
 ### Sobre Mim
 Apaixonado por tecnologia e inovação, atualmente estou focado em aprender e aprimorar minhas habilidades em programação, com ênfase em Python, TypeScript, e desenvolvimento web com React.js. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente e expandir minha rede de conexões.
 
+
+<div align="center">
+   <img height="150em" src="https://media.canva.com/1/image-resize/1/550_352_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9vVmgxUS9NQUYzSm5vVmgxUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAPIXAZwWt1Xgt-3AO5fU5fkixSAM-AnAjYjpH67y3aZN&exp=1702752868&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAGHLiiW54lZ3fZAXCC5EYMljG1-QR3wrZ3cOqGJX4Wi2"/>
+</div>
 <div align="center">
 <a href="https://github.com/Bigdamazio">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bigdamazio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
