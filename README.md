@@ -1,6 +1,6 @@
-## <p align="center">E aí 🖐</p>
+## E aí 🖐
 
-## <p align="center">Atualmente aprendendo novas linguagens e buscando conhecimento constante. Estou focado em aprimorar minhas habilidades e explorar tecnologias emergentes, com interesse em colaborar em projetos desafiadores e expandir minha rede de conexões profissionais.</p>&nbsp;
+## <p>Atualmente aprendendo novas linguagens e buscando conhecimento constante. Estou focado em aprimorar minhas habilidades e explorar tecnologias emergentes, com interesse em colaborar em projetos desafiadores e expandir minha rede de conexões profissionais.</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Bigdamazio&theme=radical&mode=weekly" />
