@@ -1,12 +1,10 @@
-## E aí 🖐
+## <p align="center">E aí 🖐</p>
 
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Atualmente aprendendo novas linguagens e buscando conhecimento constante. Estou focado em aprimorar minhas habilidades e explorar tecnologias emergentes, com interesse em colaborar em projetos desafiadores e expandir minha rede de conexões profissionais.</p>&nbsp;
+## <p align="center">Atualmente aprendendo novas linguagens e buscando conhecimento constante. Estou focado em aprimorar minhas habilidades e explorar tecnologias emergentes, com interesse em colaborar em projetos desafiadores e expandir minha rede de conexões profissionais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Bigdamazio&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Bigdamazio.vercel.app/api/top-langs/?username=Bigdamazio&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelmalandrino.vercel.app/api/top-langs/?username=Bigdamazio&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
