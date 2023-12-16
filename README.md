@@ -1,8 +1,8 @@
-## E aí, me chamo Eduardo, é um prazer! 🕹
+## E aí 🖐
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Atualmente aprendendo novas linguagens e buscando conhecimento constante. Estou focado em aprimorar minhas habilidades e explorar tecnologias emergentes, com interesse em colaborar em projetos desafiadores e expandir minha rede de conexões profissionais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Bigdamazio&theme=radical&mode=weekly" />
