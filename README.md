@@ -1,12 +1,12 @@
-## E aí, eu sou Eduardo Damazio! 🖐
+<h1 align="left">E aí, sou o Eduardo Damazio! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height= "50px" width="40px"></h1>
 
 ### Sobre Mim
 Apaixonado por tecnologia e inovação, atualmente estou focado em aprender e aprimorar minhas habilidades em programação, com ênfase em Python, TypeScript, e desenvolvimento web com React.js. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente e expandir minha rede de conexões.
 
 <div align="center">
-    <img width=55% src="https://github-readme-streak-stats.herokuapp.com?user=Bigdamazio&theme=radical&mode=weekly" />
-    <img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Bigdamazio&show_icons=true&theme=radical&layout=compact" />
-</div>
+<a href="https://github.com/Bigdamazio">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bigdamazio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigdamazio&layout=compact&langs_count=7&theme=midnight-purple"/> </div>
 
 &nbsp;
 
