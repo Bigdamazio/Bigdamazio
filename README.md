@@ -5,7 +5,7 @@ Apaixonado por tecnologia e inovação, atualmente estou focado em aprender e ap
 
 
 <div align="center">
-   <img height="300em" src="https://media.canva.com/1/image-resize/1/550_210_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93cXp4TS9NQUYzSnF3cXp4TS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAIXd8LZWtiN1fpljzVsfX-jenEa8UIj86OgjhHFViw9w&exp=1702750799&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAJBeNK_M0CUg0PoeLlNA8sc0n53wTQRiidEqfbATbuui"/>
+   
 </div>
 <div align="center">
 <a href="https://github.com/Bigdamazio">
